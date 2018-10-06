@@ -1,6 +1,6 @@
 # Wedding-site-model
 
-HTML, CSS, JS, JQ, Gulp, SASS, resonsive.
+HTML, CSS, JS, JQ, Gulp, SASS, responsive.
 
 Верстка макета сайта. Адаптивная (под разные экраны), кроссбраузерная (под разные браузеры) верстка с использованием препроцессора SASS, сборщика Gulp. "Липкое меню", эффект параллакса.
 
